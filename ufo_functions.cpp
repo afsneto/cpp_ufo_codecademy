@@ -99,23 +99,6 @@ void display_misses(int misses) {
     std::cout << "         /               \\                   \n";
 
   }
-  else if (misses == 3) {
-
-    std::cout << "                 .                            \n";
-    std::cout << "                 |                            \n";
-    std::cout << "              .-\"^\"-.                       \n";
-    std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
-    std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /--|--\\        (  Send help! ) \n";
-    std::cout << "             /   |   \\      / `-----------'  \n";
-    std::cout << "            /   / \\   \\    /                \n";
-    std::cout << "           /           \\                     \n";
-    std::cout << "          /             \\                    \n";
-    std::cout << "         /               \\                   \n";
-
-  }
   else if (misses == 4) {
 
     std::cout << "                 .                            \n";
