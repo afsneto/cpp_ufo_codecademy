@@ -1,6 +1,6 @@
 # 👽 Hangman UFO Edition
 
-![UFO Animation](A_simple,_black-and-white,_2D_digital_animation_de.png)
+<img src="A_simple,_black-and-white,_2D_digital_animation_de.png" alt="UFO Animation" width="300">
 
 ## 📜 Descrição
 
